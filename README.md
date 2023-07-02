@@ -63,6 +63,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Miejsce na twoje notatki:
 
+Aby zmienić imię należy zrobić to w pliku vievs.py w zmiennej moje_imie
+oraz w pliku test_vievs.py (aby testy wychodziły poprawnie)
   ```bash
   # miejsce na twoje notatki
   ```
